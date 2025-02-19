@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.8b620ae9.css",
-    "main.js": "/static/js/main.50a698dc.js",
+    "main.js": "/static/js/main.88fbd216.js",
     "static/js/453.4b22509d.chunk.js": "/static/js/453.4b22509d.chunk.js",
     "static/media/treesthreejsdemo.mp4": "/static/media/treesthreejsdemo.3884a6a8f0962f0d98c0.mp4",
     "static/media/mazedemo.mp4": "/static/media/mazedemo.ff6548846d91e8912870.mp4",
@@ -18,7 +18,7 @@
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
     "static/media/homescreen.png": "/static/media/homescreen.7d6daf91a02200b17b35.png",
     "static/media/React_Logo.png": "/static/media/React_Logo.50c366299e5e3cc3a890.png",
-    "static/media/AKSHYATCHAPAGAINresume.pdf": "/static/media/AKSHYATCHAPAGAINresume.70c052c35d5e0c943037.pdf",
+    "static/media/AKSHYATCHAPAGAINresume.pdf": "/static/media/AKSHYATCHAPAGAINresume.e7f034742d8f91fee5a5.pdf",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
     "static/media/expressjs.png": "/static/media/expressjs.304b141b6c72993d3aad.png",
     "static/media/Node.js_logo.png": "/static/media/Node.js_logo.abfaef34ea49d0c7cd3c.png",
@@ -32,11 +32,11 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/index.html",
     "main.8b620ae9.css.map": "/static/css/main.8b620ae9.css.map",
-    "main.50a698dc.js.map": "/static/js/main.50a698dc.js.map",
+    "main.88fbd216.js.map": "/static/js/main.88fbd216.js.map",
     "453.4b22509d.chunk.js.map": "/static/js/453.4b22509d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8b620ae9.css",
-    "static/js/main.50a698dc.js"
+    "static/js/main.88fbd216.js"
   ]
 }
