@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.bfa70bdc.css",
-    "main.js": "/static/js/main.f01d6eb0.js",
+    "main.js": "/static/js/main.8be20f46.js",
     "static/js/453.4b22509d.chunk.js": "/static/js/453.4b22509d.chunk.js",
     "static/media/treesthreejsdemo.mp4": "/static/media/treesthreejsdemo.3884a6a8f0962f0d98c0.mp4",
     "static/media/mazedemo.mp4": "/static/media/mazedemo.ff6548846d91e8912870.mp4",
     "static/media/akshyat.jpg": "/static/media/akshyat.660b7933e741cfdb3898.jpg",
     "static/media/blogappthumbnail.png": "/static/media/blogappthumbnail.8f79c1a1447e9ea6293c.png",
+    "static/media/alcoms.png": "/static/media/alcoms.fe9e0a1a952c3581a6fe.png",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/mysql_logo.png": "/static/media/mysql_logo.167c88550478e6f0f85c.png",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
@@ -32,11 +33,11 @@
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
     "index.html": "/index.html",
     "main.bfa70bdc.css.map": "/static/css/main.bfa70bdc.css.map",
-    "main.f01d6eb0.js.map": "/static/js/main.f01d6eb0.js.map",
+    "main.8be20f46.js.map": "/static/js/main.8be20f46.js.map",
     "453.4b22509d.chunk.js.map": "/static/js/453.4b22509d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.bfa70bdc.css",
-    "static/js/main.f01d6eb0.js"
+    "static/js/main.8be20f46.js"
   ]
 }
